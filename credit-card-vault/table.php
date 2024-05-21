@@ -1,0 +1,1 @@
+<td><a href="form.php?delete=<?php echo $data['id']; ?>" class="btn btn-danger">Delete</a></td>
